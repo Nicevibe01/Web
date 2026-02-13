@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -14,8 +14,11 @@
     margin: 0px auto;
     text-align: center;
     margin-top: 50px;
-    padding
+    }
+.h2{
+    text-align: center;
 }
+    
 .container img{
     width: 280px;
     border-radius: 10px;
